@@ -1,0 +1,14 @@
+body{
+    background: tomato;
+}
+.sign-in-div{
+    margin-top: 0;
+}
+.title{
+    font-size: 78px;
+    font-weight: bolder;
+    font-family: sans-serif;
+}
+.input-card{
+    border-radius: 10px;
+}
